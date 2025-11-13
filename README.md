@@ -37,4 +37,11 @@ HamiMiniMarket/ │ ├── index.html ├──style.css ├── js/ │   
 🖼 Screenshots
 <img width="944" height="434" alt="image" src="https://github.com/user-attachments/assets/2b277ff1-5bfb-4428-a4ce-fadcd31daa39" />
 
+<img width="949" height="435" alt="image" src="https://github.com/user-attachments/assets/8df8511d-5481-4ea0-871f-241aed0f9b99" />
+
+<img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/6dc5d774-ea99-4b5a-8892-33598aa799d3" />
+
+<img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/a1f32f25-aada-4335-afaa-dcd04429f9b8" />
+
+<img width="219" height="434" alt="image" src="https://github.com/user-attachments/assets/4c96bc37-f998-4485-8a3e-e96cfdb7530e" />
 
